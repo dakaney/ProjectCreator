@@ -8,8 +8,8 @@ const Navbar = () => {
         <nav className="nav-wrapper grey darken-3">
             <div className="container">
                 <Link to='/' className="brand-logo">ProjectCreator</Link>
-                <SignedInLinks />
-                <SignedOutLinks />
+                <SignedInLinks to='/'/>
+                <SignedOutLinks to='/'/>
             </div>
         </nav>
     )
