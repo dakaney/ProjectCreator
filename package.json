@@ -1,5 +1,5 @@
 {
-  "name": "runtime",
+  "name": "ProjectCreator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
